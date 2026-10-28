@@ -6,7 +6,8 @@ An interactive Power BI dashboard designed to analyze laptop pricing patterns, b
 
 ## 📸 Dashboard Overview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](![Uploading Screenshot 2026-10-28 210932.png…]()
+)
 
 ---
 
